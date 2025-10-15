@@ -238,7 +238,7 @@
     "Sub-Category":"File Opened",
     "BitDefender":"Yes",
     "Carbon Black":"Yes",
-    "Cortex XDR":"No",
+    "Cortex XDR":"Yes",
     "CrowdStrike":"Partially",
     "Cybereason":"No",
     "Cylance":"Via EnablingTelemetry",
